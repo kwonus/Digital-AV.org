@@ -1,0 +1,42 @@
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
+
+
+#menu-0 .mbr-brand__name {
+  font-size: 16px;
+}
+#menu-0.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#menu-0 .mbr-navbar__hamburger {
+  color: #3d8eb9;
+}
+#header1-1 P {
+  text-align: center;
+}
+#header1-1 H1 {
+  font-family: 'Droid Serif', serif;
+}
+#header4-2 H1 {
+  color: #e25041;
+  font-family: 'Droid Serif', serif;
+  font-size: 48px;
+  text-align: center;
+}
+#msg-box4-3 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-3 .mbr-article P {
+  text-align: left;
+}
+#msg-box1-4 .mbr-header .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box1-4 .mbr-article {
+  color: #fff;
+}
